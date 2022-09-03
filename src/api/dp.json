@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Chicken Pan Pizza",
+      "image": "images/gallery/img_1.jpg",
+      "authorImg": "images/topChiefs/img_1.jpg",
+      "description": "Make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of"
+    },
+    {
+      "id": 2,
+      "title": "Spaghetti and Meatballs",
+      "image": "images/gallery/img_4.jpg",
+      "authorImg": "images/topChiefs/img_2.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+    },
+    {
+      "id": 3,
+      "title": "American Cheese Burger",
+      "image": "images/gallery/img_5.jpg",
+      "authorImg": "images/topChiefs/img_4.jpg",
+      "description": "model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years"
+    },
+    {
+      "id": 4,
+      "title": "Mutton Biriyani",
+      "image": "images/gallery/img_6.jpg",
+      "authorImg": "images/topChiefs/img_5.jpg",
+      "description": "model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years"
+    },
+    {
+      "id": 5,
+      "title": "Japanese Sushi",
+      "image": "images/gallery/img_10.jpg",
+      "authorImg": "images/topChiefs/img_6.jpg",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+    }
+   
+  ],
+  "chiefs": [
+    {
+      "id": 1,
+      "name": "Juan Carlos",
+      "img": "images/topChiefs/img_1.jpg",
+      "recipesCount": "10",
+      "cuisine": "Mexican"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "img": "images/topChiefs/img_2.jpg",
+      "recipesCount": "05",
+      "cuisine": "Japanese"
+    },
+    {
+      "id": 3,
+      "name": "Erich Maria",
+      "img": "images/topChiefs/img_3.jpg",
+      "recipesCount": "13",
+      "cuisine": "Italian"
+    },
+    {
+      "id": 4,
+      "name": "Chris Brown",
+      "img": "images/topChiefs/img_4.jpg",
+      "recipesCount": "08",
+      "cuisine": "American"
+    },
+    {
+      "id": 5,
+      "name": "Blake Lively",
+      "img": "images/topChiefs/img_5.jpg",
+      "recipesCount": "09",
+      "cuisine": "French"
+    },
+    {
+      "id": 6,
+      "name": "Ben Affleck",
+      "img": "images/topChiefs/img_6.jpg",
+      "recipesCount": "04",
+      "cuisine": "Indian"
+    }
+  ]
+}

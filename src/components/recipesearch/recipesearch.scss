@@ -1,0 +1,29 @@
+.search-tags{
+ 
+    .search-box{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        height: 35px;
+        input, .btn{
+            height: 35px;
+        }
+        input{
+            min-width: 250px;
+            padding: 0 .5em;
+            border-radius: 5px 0 0 5px;
+            outline: none;
+            border: 1px solid #dedede;
+        }
+        .btn{
+            padding-block: 0;
+            padding-inline: .75em;
+            border-radius: 0 ;
+            background-color:#ca8122;
+            color:#fff;
+            &:last-child{
+                border-radius: 0 5px 5px 0;
+            }
+        }
+    }
+}

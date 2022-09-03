@@ -1,0 +1,10 @@
+react sass react-route-dom bootstrap
+
+json-server --watch dp.json --port 3000
+
+http://localhost:3000/recipes
+
+http://localhost:3000/chiefs
+
+npm start
+
